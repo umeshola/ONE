@@ -46,3 +46,23 @@ nodemon index
 cd client
 npm install
 npm run dev
+
+```
+## Pics
+![Screenshot 2024-05-01 214454](https://github.com/umeshola/ONE/assets/102541415/9453af7d-813a-4352-b656-a003950436af)
+
+![Screenshot 2024-05-01 214342](https://github.com/umeshola/ONE/assets/102541415/dcca2321-41b3-413b-995f-6f708e707dbe)
+
+![Screenshot 2024-05-01 214406](https://github.com/umeshola/ONE/assets/102541415/e87ec361-58c9-4d41-a44e-78d003776944)
+
+![Screenshot 2024-05-01 214429](https://github.com/umeshola/ONE/assets/102541415/f15982ac-f1d4-4c54-bf8c-c139d6e19a11)
+
+![Screenshot 2024-05-01 214524](https://github.com/umeshola/ONE/assets/102541415/f04859d7-552c-4f2d-afdd-b6c796317d75)
+
+![Screenshot 2024-05-01 214548](https://github.com/umeshola/ONE/assets/102541415/1482bb1c-72de-47f8-aa33-eadccb788f7a)
+
+![Screenshot 2024-05-01 214604](https://github.com/umeshola/ONE/assets/102541415/55731b93-5401-4dfe-93f8-3b5766a52200)
+
+
+
+
