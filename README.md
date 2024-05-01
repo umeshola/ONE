@@ -35,12 +35,14 @@ ONE is a comprehensive platform designed to cater to various aspects of social i
 ## Getting Started
 ```bash
 # Clone this repository
-git clone <repository-url>
+git clone https://github.com/umeshola/ONE.git
 
 # Navigate to the server directory and run the server
 cd server
+npm i
 nodemon index
 
 # Open another terminal, navigate to the client directory, and run the client
 cd client
+npm install
 npm run dev
